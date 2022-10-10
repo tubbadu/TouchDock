@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+		<file alias="SlidingDrawer.qml">contents/ui/SlidingDrawer.qml</file>
+    </qresource>
+</RCC>
+ 

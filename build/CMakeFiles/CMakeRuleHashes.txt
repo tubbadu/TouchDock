@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+dbb1c68e68214717c23452a744b36f14 CMakeFiles/fetch-translations
+a847d73c190ced779ece8eaeab3f516f CMakeFiles/uninstall
+e5a6c0714ab0647ab9e2b56ff3838f0a releaseme
+17204bb65f98ec5a4a456b7bda1818f7 src/CMakeFiles/touchdock_autogen
+cf6c8201405baaed9b0979b0c8cdcf36 src/touchdock_autogen/EWIEGA46WW/qrc_resources.cpp

@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "/home/tubbadu/code/TouchDock/build/src/touchdock_autogen",
+	"CMAKE_BINARY_DIR" : "/home/tubbadu/code/TouchDock/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/tubbadu/code/TouchDock/build/src",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/tubbadu/code/TouchDock/src",
+	"CMAKE_SOURCE_DIR" : "/home/tubbadu/code/TouchDock",
+	"INCLUDE_DIR" : "/home/tubbadu/code/TouchDock/build/src/touchdock_autogen/include",
+	"INPUTS" : [ "/home/tubbadu/code/TouchDock/src/contents/ui/SlidingDrawer.qml" ],
+	"LOCK_FILE" : "/home/tubbadu/code/TouchDock/build/src/CMakeFiles/touchdock_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib64/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/tubbadu/code/TouchDock/build/src/CMakeFiles/touchdock_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/tubbadu/code/TouchDock/src/resources.qrc",
+	"VERBOSITY" : 0
+}

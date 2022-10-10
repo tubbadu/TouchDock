@@ -1,0 +1,10 @@
+/home/tubbadu/code/TouchDock/build/CMakeFiles/uninstall.dir
+/home/tubbadu/code/TouchDock/build/CMakeFiles/fetch-translations.dir
+/home/tubbadu/code/TouchDock/build/CMakeFiles/test.dir
+/home/tubbadu/code/TouchDock/build/CMakeFiles/edit_cache.dir
+/home/tubbadu/code/TouchDock/build/CMakeFiles/rebuild_cache.dir
+/home/tubbadu/code/TouchDock/build/src/CMakeFiles/touchdock.dir
+/home/tubbadu/code/TouchDock/build/src/CMakeFiles/test.dir
+/home/tubbadu/code/TouchDock/build/src/CMakeFiles/edit_cache.dir
+/home/tubbadu/code/TouchDock/build/src/CMakeFiles/rebuild_cache.dir
+/home/tubbadu/code/TouchDock/build/src/CMakeFiles/touchdock_autogen.dir
